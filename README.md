@@ -1,16 +1,24 @@
-## Hi there 👋
+# Theo-Automation-Systems
 
-<!--
-**theo-automation-systems/theo-automation-systems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building AI-powered automation systems and productivity tools.
 
-Here are some ideas to get you started:
+## What I build
+- AI workflow automations
+- Email & task automation
+- Productivity dashboards
+- Full-stack web tools
+- Custom business automations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+- Python
+- TypeScript
+- React / Next.js
+- Node.js
+- APIs & automation
+- AI integrations
+
+## Featured projects
+- ai-inbox-assistant
+
+## Contact
+- theo.bensadoun@gmail.com
